@@ -1,0 +1,13 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Shrikhand-Regular-SVG.ttf",
+      "sha1": "4b60db2d85e86500d3421f1b115bb1ccbbeb8ad2"
+    },
+    {
+      "path": "assets/fonts/Shrikhand-Regular.ttf",
+      "sha1": "4121dc7de54881c96a88ef28a22c790691202577"
+    }
+  ]
+}
